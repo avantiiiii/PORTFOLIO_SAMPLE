@@ -1,0 +1,9 @@
+'''print("hello")
+a,b,c=10,2,3
+add=a+b+c
+print(add)'''
+
+a=int(input("enter a: "))
+b=int(input("enter b: "))
+sum=a+b
+print("sum", sum)
